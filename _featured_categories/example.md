@@ -20,3 +20,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
+
+[![Image name](image.png)](http://www.host.com/link.html) [![Image name](image.png)](http://www.host.com/link.html) [![Image name](image.png)](http://www.host.com/link.html)
