@@ -8,13 +8,13 @@ title: Projects
 
 <div class="row">
   <div class="column">
-    <img src="../assets/img/blog/dobot/dobot.jpg" alt="dobot" style="width=100px" height=100px>
+    <img src="../assets/img/blog/dobot/dobot.jpg" alt="dobot" width="100px" height="100px">
   </div>
   <div class="column">
-    <img src="../assets/img/blog/turtlebot/turtle.png" alt="turtle" style="width=100px" height=100px>
+    <img src="../assets/img/blog/turtlebot/turtle.png" alt="turtle" width"=100px" height="100px">
   </div>
   <div class="column">
-    <img src="./assets/img/blog/../../../../assets/img/blog/desfioslab/ros.jpeg" alt="desafios" style="width=100px" height=100px>
+    <img src="./assets/img/blog/../../../../assets/img/blog/desfioslab/ros.jpeg" alt="desafios" width="100px" height="100px">
   </div>
 </div>
 
