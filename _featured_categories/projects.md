@@ -26,6 +26,8 @@ title: Projects
 
 # Projects
 
+This pages contains all the projects that I maked in the currently years
+
 ## Robotics & Autonomous Systems Competence Center
 
 <body>
