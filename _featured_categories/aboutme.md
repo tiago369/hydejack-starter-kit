@@ -6,6 +6,6 @@ title: About Me
 
 ## Tiago Barretto Sant'Anna
 
-I am an engineering student, passionate about robotics and project development.
+Engineering student, passionate about robotics and project development.
 
-I was born in 2003 in the city of Salvador, Brazil.
+Born in 2003 in the city of Salvador, Brazil. Frenquented the school Sesi Djalma Pessoa where have contact with robotics. After that ingressed in the Senai CIMATEC where study and work with robotics and autonomous systems.
