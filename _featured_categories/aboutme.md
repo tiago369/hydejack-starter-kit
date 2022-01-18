@@ -8,4 +8,6 @@ title: About Me
 
 Engineering student, passionate about robotics and project development.
 
-Born in 2003 in the city of Salvador, Brazil. Frenquented the school Sesi Djalma Pessoa where have contact with robotics. After that ingressed in the Senai CIMATEC where study and work with robotics and autonomous systems.
+Born in 2003 in the city of Salvador, Bahia, Brazil. In high school, he attended the Sesi Djalma Pessoa school where he participated in robotics championships. In the second half of 2020 he entered the mechatronics technical course and in 2021 he began his graduation and electrical engineering, both of which he is currently studying at the Senai CIMATEC institution.
+
+In addition, he currently works as a volunteer at the robotics and autonomous systems competence center and works as a member of ieee carrying out projects
