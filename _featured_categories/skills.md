@@ -4,9 +4,11 @@ title: Skills
 ---
 # Skills and habilities
 
+<progress value="70" max="100">70 %</progress>
+
 ## Programming languages
 ### C++
-<img src="../assets/img/skills/03.jpg" alt="c++" width="500px"/>
+<img src="../assets/img/skills/03.jpg" alt="c++" width="50px"/>
 
 [Exemple 1](https://github.com/tiago369/Desafios-de-preparacao-rasc)
 
