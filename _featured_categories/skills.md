@@ -8,12 +8,12 @@ title: Skills
 
 ## Programming languages
 ### C++
-<img src="../assets/img/skills/03.jpg" alt="c++" width="50px"/>
+<img src="../assets/img/skills/03.png" alt="c++" width="50px"/>
 
 [Exemple 1](https://github.com/tiago369/Desafios-de-preparacao-rasc)
 
 ### Python
-<img src="../assets/img/skills/python.jpg" alt="python" width="500px"/>
+<img src="../assets/img/skills/python.png" alt="python" width="500px"/>
 
 [Exemple 1](https://github.com/tiago369/Desafios-de-preparacao-rasc)
 
@@ -39,7 +39,7 @@ title: Skills
 [Example 2](https://ieeecimatec.github.io/project-mao_espelhada/)
 
 ### Autodesk Inventor
-<img src="../assets/img/skills/autodesk-inventor-500x500.jpg" alt="inventor" width="500px"/>
+<img src="../assets/img/skills/autodesk-inventor-500x500.png" alt="inventor" width="500px"/>
 
 ## People managment
 
