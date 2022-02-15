@@ -17,8 +17,7 @@ hide_description: false
 |---|
 |4th semester|
 |---|
-<!-- |The Mechatronics Technician is the professional responsible for designing, installing and operating automated and robotic equipment. Performs programming, parameterization, measurements and testing of automated and robotic equipment.|
-|---| -->
+
 
 
 ## Undergraduate Electrical Engineering
@@ -29,8 +28,7 @@ hide_description: false
 |---|
 |3th semester|
 |---|
-<!-- |The electrical engineer designs, designs and guides the installation of electrical circuits for buildings and industries. It is also part of its functions to create and develop equipment and circuits for the electronics industry.|
-|---| -->
+
 
 # Profissional Experience
 
@@ -41,9 +39,6 @@ hide_description: false
 |---|
 |*Sesi Djalma Pessoa, Salvador-BA*|
 |---|
-|I participated in robotics championships during school. These championships required several technical knowledge, as well as leadership and teamwork skills.|
-<!-- |Among the activities carried out, one that gained prominence was the [elevator with uv light](http://sesi.fieb.org.br/sesiescola/noticias/covid-19-alunos-de-escolas-da-rede-sesi-desenvolvem-solu%C3%A7%C3%B5es-de-impacto-social/) for disinfection of this environment in the fight against coronavirus.|
-|---| -->
 
 
 ## Member of IEEE
@@ -52,8 +47,7 @@ hide_description: false
 |---|
 |*Senai CIMATEC, Salvador-BA*|
 |---|
-|I participate in the student branch of the IEEE as a volunteer and I am currently working, together with my colleagues, on the development of a [robotic hand](https://ieeecimatec.github.io/project-mao_espelhada/) that uses computer vision to detect movements and reproduce them.|
-|---|
+
 
 
 ## Vice-president of RAS CIMATEC
@@ -62,8 +56,7 @@ hide_description: false
 |---|
 |*Senai CIMATEC, Salvador-BA*|
 |---|
-|Within the IEEE I occupy the role of vice-president, where I have as work to guide projects, manage people and hold events and actions of the chapter.|
-|---|
+
 
 
 ## Volunter of the Robotics & Autonomous Systems Competence Center
@@ -72,8 +65,7 @@ hide_description: false
 |---|
 |*Senai CIMATEC, Salvador-BA*|
 |---|
-|I work within the Laboratory of [RASC](https://braziliansinrobotics.com/) studying and performing projects within the robotics and automation area. With the realization of these projects I had to master C++, Python, ROS, Linux, electronic and kinematics. These projects can be accessed by clicking [here](htttps://localhost:4000/projects/)|
-|---|
+
 
 [blog]: /
 [portfolio]: https://hydejack.com/examples/
