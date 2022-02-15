@@ -6,7 +6,7 @@ description: >
 hide_description: false
 ---
 
-# Academic Experience:
+# Academic Experience
 
 
 ## Undergraduate Technical Course in Mechatronics
@@ -17,8 +17,8 @@ hide_description: false
 |---|
 |4th semester|
 |---|
-|The Mechatronics Technician is the professional responsible for designing, installing and operating automated and robotic equipment. Performs programming, parameterization, measurements and testing of automated and robotic equipment.|
-|---|
+<!-- |The Mechatronics Technician is the professional responsible for designing, installing and operating automated and robotic equipment. Performs programming, parameterization, measurements and testing of automated and robotic equipment.|
+|---| -->
 
 
 ## Undergraduate Electrical Engineering
@@ -29,10 +29,10 @@ hide_description: false
 |---|
 |3th semester|
 |---|
-|The electrical engineer designs, designs and guides the installation of electrical circuits for buildings and industries. It is also part of its functions to create and develop equipment and circuits for the electronics industry.|
-|---|
+<!-- |The electrical engineer designs, designs and guides the installation of electrical circuits for buildings and industries. It is also part of its functions to create and develop equipment and circuits for the electronics industry.|
+|---| -->
 
-# Profissional Experience:
+# Profissional Experience
 
 
 ## Competitor in robotics championships
@@ -42,8 +42,8 @@ hide_description: false
 |*Sesi Djalma Pessoa, Salvador-BA*|
 |---|
 |I participated in robotics championships during school. These championships required several technical knowledge, as well as leadership and teamwork skills.|
-|Among the activities carried out, one that gained prominence was the [elevator with uv light](http://sesi.fieb.org.br/sesiescola/noticias/covid-19-alunos-de-escolas-da-rede-sesi-desenvolvem-solu%C3%A7%C3%B5es-de-impacto-social/) for disinfection of this environment in the fight against coronavirus.|
-|---|
+<!-- |Among the activities carried out, one that gained prominence was the [elevator with uv light](http://sesi.fieb.org.br/sesiescola/noticias/covid-19-alunos-de-escolas-da-rede-sesi-desenvolvem-solu%C3%A7%C3%B5es-de-impacto-social/) for disinfection of this environment in the fight against coronavirus.|
+|---| -->
 
 
 ## Member of IEEE
@@ -72,7 +72,7 @@ hide_description: false
 |---|
 |*Senai CIMATEC, Salvador-BA*|
 |---|
-|I work within the Laboratory of [RASC](https://braziliansinrobotics.com/) studying and performing projects within the robotics and automation area. With the realization of these projects I had to master C++, Python, ROS, Linux, electronicand kinematics. These projects can be accessed by clicking [here](htttps://localhost:4000/projects/)|
+|I work within the Laboratory of [RASC](https://braziliansinrobotics.com/) studying and performing projects within the robotics and automation area. With the realization of these projects I had to master C++, Python, ROS, Linux, electronic and kinematics. These projects can be accessed by clicking [here](htttps://localhost:4000/projects/)|
 |---|
 
 [blog]: /
