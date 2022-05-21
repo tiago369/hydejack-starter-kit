@@ -182,7 +182,7 @@ pinterest:
   prepend: "https://www.pinterest.com/"
 xing:
   name: XING
-  icon: icon-xing2
+  icon: icon-xing
   prepend: "https://www.xing.com/profile/"
 flattr:
   name: Flattr
